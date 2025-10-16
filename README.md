@@ -2,4 +2,4 @@
 
 
 ## 📸 Screenshots
-![Home Page](1.png)
+![Home Page](8.png)
